@@ -11,6 +11,22 @@
     {
       "name": "Harold Strosin",
       "id": 4
+    },
+    {
+      "name": "Lamar Rutherford",
+      "id": 5
+    },
+    {
+      "name": "Scott Hintz Sr.",
+      "id": 6
+    },
+    {
+      "name": "Wendell Padberg",
+      "id": 7
+    },
+    {
+      "name": "Lee Padberg",
+      "id": 8
     }
   ],
   "albums": [
@@ -18,6 +34,106 @@
       "id": 10,
       "title": "Hiking Trip",
       "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Rubber Pizza",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Sleek Granite Pants",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Refined Concrete Shoes",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Generic Bronze Mouse",
+      "id": 14
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Soft Computer",
+      "id": 15
+    },
+    {
+      "userId": 5,
+      "title": "Ergonomic Bronze Cheese",
+      "id": 16
+    },
+    {
+      "userId": 4,
+      "title": "Small Cotton Car",
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "title": "Generic Plastic Soap",
+      "id": 18
+    },
+    {
+      "userId": 3,
+      "title": "Handcrafted Plastic Sausages",
+      "id": 19
+    },
+    {
+      "userId": 3,
+      "title": "Generic Wooden Shirt",
+      "id": 20
+    },
+    {
+      "userId": 3,
+      "title": "Electronic Fresh Car",
+      "id": 21
+    },
+    {
+      "userId": 3,
+      "title": "Incredible Frozen Chicken",
+      "id": 22
+    },
+    {
+      "userId": 5,
+      "title": "Practical Steel Chicken",
+      "id": 23
+    },
+    {
+      "userId": 3,
+      "title": "Recycled Granite Ball",
+      "id": 24
+    },
+    {
+      "userId": 5,
+      "title": "Tasty Steel Mouse",
+      "id": 25
+    },
+    {
+      "userId": 1,
+      "title": "Small Metal Towels",
+      "id": 26
+    },
+    {
+      "userId": 1,
+      "title": "Refined Steel Hat",
+      "id": 27
+    },
+    {
+      "userId": 3,
+      "title": "Gorgeous Soft Sausages",
+      "id": 28
+    },
+    {
+      "userId": 5,
+      "title": "Electronic Concrete Table",
+      "id": 29
+    },
+    {
+      "userId": 3,
+      "title": "Ergonomic Cotton Pants",
+      "id": 30
     }
   ],
   "photos": []
